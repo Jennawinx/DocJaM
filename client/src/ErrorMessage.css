@@ -1,0 +1,23 @@
+@import "~antd/dist/antd.css";
+
+.error {
+  color: #d63301;
+  background-color: #ffccba;
+  border: #d63301 solid 1px;
+  border-radius: 10px;
+  text-align: center;
+  align-content: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+ul.error-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}

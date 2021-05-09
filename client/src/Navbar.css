@@ -1,0 +1,19 @@
+/* Hacky way to color theme */
+
+.ant-layout-header {
+  background-color: #476376;
+  color: white;
+}
+
+.ant-layout-header .ant-menu {
+  background-color: inherit;
+}
+
+.ant-layout-header .ant-menu-horizontal > .ant-menu-item,
+.ant-layout-header .ant-menu-horizontal > .ant-menu-item:hover {
+  background-color: inherit;
+}
+
+.ant-layout-header .ant-menu-horizontal > .ant-menu-item a:hover {
+  color: white;
+}

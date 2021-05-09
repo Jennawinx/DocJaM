@@ -1,0 +1,30 @@
+.side-chat {
+
+}
+
+.chat-message {
+    margin: 0.5em 0.25em;
+    margin-right: 1.5em;
+}
+
+
+.chat-message.my-chat-message {
+    margin-right: 0.25em;
+    margin-left: 1.5em;
+}
+
+.chat-message .chat-bubble {
+    background-color: lightblue;
+    border-radius: 0.25em;
+    padding: 0.5em;
+}
+
+.chat-message .chat-username {
+    color: #333;
+    font-size: 90%;
+    text-align: left;
+}
+
+.chat-message.my-chat-message .chat-username  {
+    text-align: right;
+}

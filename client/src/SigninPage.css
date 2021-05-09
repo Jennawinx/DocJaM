@@ -1,0 +1,16 @@
+@import "~antd/dist/antd.css";
+
+.form-button {
+  width: 100%;
+}
+
+.center-item {
+  text-align: center;
+}
+
+.signup-link {
+  margin-bottom: 10px;
+}
+.error-box {
+  align-self: center;
+}

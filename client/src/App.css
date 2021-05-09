@@ -1,0 +1,17 @@
+#footer {
+  background-color: #476376;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  height: 25px;
+  color: black;
+  font-size: 12px;
+  padding: 10px;
+  background: rgb(149, 164, 175, 0.5);
+}
+
+.footer-link {
+  color: black;
+}

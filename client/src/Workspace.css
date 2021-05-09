@@ -1,0 +1,41 @@
+
+.fileNav .ant-layout-sider-zero-width-trigger {
+    top: 0 !important;
+    transform: translate(10px, 10px);
+}
+
+.fileNav .anticon.anticon-delete {
+    font-size: 120%;
+}
+
+.fileNav .anticon.anticon-delete:hover {
+    color: orangered;
+}
+
+.side-chat .ant-layout-sider-zero-width-trigger {
+    top: 0 !important;
+    transform: translate(-400px, 60px);
+}
+
+.side-chat.ant-layout-sider-collapsed .ant-layout-sider-zero-width-trigger {
+    transform: translate(-50px, 60px);
+}
+
+.ant-menu-item-only-child.display-only-menu-item {
+    background-color: steelblue !important;
+    color: white  !important;
+    cursor: initial;
+    font-weight: bold;
+    margin-top: 0.5em;
+
+}
+
+.cursor {
+    color: white;
+    padding: 0;
+    z-index: 0;
+}
+
+.cursor:hover {
+    padding: 0.1em 0.25em;
+}
